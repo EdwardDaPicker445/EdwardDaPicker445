@@ -2,11 +2,17 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20edp445&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Certified%20Pickup%20Line%20Engineer%20%7C%20Commits%20With%20Confidence&descAlignY=58&descSize=18" width="100%" alt="header"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=edwarddapicker445+is+in+the+building+%F0%9F%98%8E;Is+your+name+Git?+Because+I+want+to+commit;Pushing+to+main+AND+to+my+luck;Swipe+right+on+my+repos+%F0%9F%92%98" alt="Typing SVG" />
+</a>
+
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=8b5cf6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1b4b)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=6d28d9&labelColor=1e1b4b)
+![Profile Views](https://komarev.com/ghpvc/?username=edwarddapicker445&label=Profile%20views&color=8b5cf6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/edwarddapicker445?style=for-the-badge&logo=github&color=6d28d9&labelColor=1e1b4b)
+![Stars](https://img.shields.io/github/stars/edwarddapicker445?style=for-the-badge&logo=starship&color=6d28d9&labelColor=1e1b4b)
 
 </div>
 
@@ -16,20 +22,23 @@
 
 ```js
 const me = {
-  name: "YOUR_NAME",
+  name: "edp445",
   role: "Software Developer",
   location: "YOUR_CITY, YOUR_COUNTRY",
   currentlyBuilding: "YOUR_PROJECT",
   currentlyLearning: ["Rust", "System Design", "Machine Learning"],
   askMeAbout: ["JavaScript", "Python", "Open Source"],
   funFact: "I debug best at 2 AM",
+  relationshipStatus: "Open to merge requests 😏",
+  rizzLevel: Infinity,
 };
 ```
 
 - 🔭 Working on **YOUR_PROJECT**
-- 🌱 Learning **Rust** and **AI tooling**
+- 😎 Here to get the ladies (and ship some clean code on the side)
+- 💬 Ask me about **JavaScript**, **Python**, or my best pickup line
 - 🤝 Looking to collaborate on **open-source projects**
-- ⚡ Fun fact: **YOUR FUN FACT**
+- ⚡ Fun fact: **my commit messages are smoother than my pickup lines**. Allegedly.
 
 ---
 
@@ -59,12 +68,12 @@ const me = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=8b5cf6&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=edwarddapicker445&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=8b5cf6&include_all_commits=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddapicker445&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" alt="top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwarddapicker445&theme=tokyonight&hide_border=true&background=0f0c29&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="streak" />
 
 </div>
 
@@ -74,18 +83,18 @@ const me = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edwarddapicker445&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## sanke
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <!-- Needs a GitHub Action, see setup notes below -->
-<img src="https://raw.githubusercontent.com/EdwardDaPicker445/EdwardDaPicker445/output/github-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/edwarddapicker445/edwarddapicker445/output/github-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -95,9 +104,9 @@ const me = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**project-one**](https://github.com/YOUR_USERNAME/project-one) | One-line pitch of what it does | `TypeScript` `React` |
-| [**project-two**](https://github.com/YOUR_USERNAME/project-two) | One-line pitch of what it does | `Python` `FastAPI` |
-| [**project-three**](https://github.com/YOUR_USERNAME/project-three) | One-line pitch of what it does | `Rust` |
+| [**project-one**](https://github.com/edwarddapicker445/project-one) | One-line pitch of what it does | `TypeScript` `React` |
+| [**project-two**](https://github.com/edwarddapicker445/project-two) | One-line pitch of what it does | `Python` `FastAPI` |
+| [**project-three**](https://github.com/edwarddapicker445/project-three) | One-line pitch of what it does | `Rust` |
 
 ---
 
@@ -118,8 +127,8 @@ const me = {
 
 <!--
 SETUP NOTES (delete before publishing)
-1. Create a public repo named exactly YOUR_USERNAME (same as your GitHub username) and add this as README.md.
-2. Find/replace YOUR_USERNAME, YOUR_NAME, and the other YOUR_* placeholders.
+1. Create a public repo named exactly edwarddapicker445 (same as your GitHub username) and add this as README.md.
+2. Find/replace edwarddapicker445, edp445, and the other YOUR_* placeholders.
 3. Snake animation: add .github/workflows/snake.yml using the Platane/snk action
    (https://github.com/Platane/snk), run it once, and it creates the "output" branch with the SVG.
    If you skip it, delete the Contribution Snake section.
