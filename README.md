@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20edp445&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=tuff+lord&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IM+HERE+FOR+ALL+THE+FAT+BITCHES+%F0%9F%98%8E;YOU+GOT+CAUGHT+YOU+GOT+BUSTED+YOU+WATCHING+GITHUB+AND+FAT+BITCHES+FIGHTING+OVER+FOOD%F0%9F%92%98" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IM+HERE+FOR+ALL+THE+FAT+BITCHES+%F0%9F%98%8E;GITHUB+AND+FAT+BITCHES+FIGHTING+OVER+FOOD%F0%9F%92%98" alt="Typing SVG" />
 </a>
 
 <br/>
