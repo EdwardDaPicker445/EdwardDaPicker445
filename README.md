@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey,%20I'm%20YOUR_NAME&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Tinkerer%20%7C%20Perpetual%20Learner&descAlignY=58&descSize=18" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Turning+coffee+into+commits;Open+to+collaborations+%F0%9F%9A%80;Currently+learning+something+new+every+day" alt="Typing SVG" />
-</a>
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=8b5cf6&style=for-the-badge)
@@ -86,12 +80,12 @@ const me = {
 
 ---
 
-## 🐍 Contribution Snake
+## sanke
 
 <div align="center">
 
 <!-- Needs a GitHub Action, see setup notes below -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/EdwardDaPicker445/EdwardDaPicker445/output/github-snake-dark.svg" alt="snake animation" />
 
 </div>
 
